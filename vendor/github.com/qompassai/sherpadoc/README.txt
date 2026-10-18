@@ -3,7 +3,7 @@ sherpadoc - documentation for sherpa API's
 Go package containing type defintions for sherpa documentation for encoding to and decoding from json.
 Also contains the sherpadoc command reads Go code and writes sherpadoc JSON.
 
-Use together with the sherpa library, github.com/qompassai/sherpa.
+Use together with the sherpa library, github.com/mjl-/sherpa.
 Read more about sherpa at https://www.ueber.net/who/mjl/sherpa/
 
 # About

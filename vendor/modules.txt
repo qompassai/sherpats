@@ -1,2 +1,4 @@
-# github.com/qompassai/sherpadoc v0.0.0-20190505200843-c0a7f43f5f1d
+# github.com/qompassai/sherpadoc v0.0.0-20190505200843-c0a7f43f5f1d => github.com/mjl-/sherpadoc v0.0.0-20190505200843-c0a7f43f5f1d
+## explicit; go 1.12
 github.com/qompassai/sherpadoc
+# github.com/qompassai/sherpadoc => github.com/mjl-/sherpadoc v0.0.0-20190505200843-c0a7f43f5f1d
